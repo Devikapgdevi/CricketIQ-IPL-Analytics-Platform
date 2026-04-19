@@ -176,7 +176,7 @@ The event combined:
 **Devika PG**
 📍 Bengaluru, India
 
-💡 SNOWFLAKE DEVELOPER IN ARIS DATA.AI| DATA ENGINEER | Full Stack Development
+💡 SNOWFLAKE DEVELOPER IN ARIS DATA.AI| DATA ENGINEER | AIML |SDE
 
 ---
 
