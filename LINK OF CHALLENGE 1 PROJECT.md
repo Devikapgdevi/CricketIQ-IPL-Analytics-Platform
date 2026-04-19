@@ -27,7 +27,7 @@ The platform enables real-time data insights, interactive dashboards, and gamifi
 ## ✨ Core Features
 
 ### 📊 Analytics Dashboard
-- Real-time match insights  
+- Match insights  
 - Player and team statistics  
 - Interactive visualizations  
 
