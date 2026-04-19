@@ -1,6 +1,6 @@
 # 🚀 CricketIQ 2025 – IPL Analytics Platform 🏏
 
-## 🔗 Live Application
+## 🔗  Application Link 
 https://app.snowflake.com/cnavdsf/lc61974/#/streamlit-apps/FAN_ENGAGEMENT.PUBLIC.FAN_ZONE_APP  
 
 ⚠️ Note: Requires Snowflake login and role-based access.
