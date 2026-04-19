@@ -1,75 +1,59 @@
 # 🚀 CricketIQ – IPL Analytics Platform 🏏📊
 
-🔗 **Live App**  
-https://app.snowflake.com/cnavdsf/lc61974/#/streamlit-apps/FAN_ENGAGEMENT.PUBLIC.FAN_ZONE_APP
+## 🔗 Live Application
+https://app.snowflake.com/cnavdsf/lc61974/#/streamlit-apps/FAN_ENGAGEMENT.PUBLIC.FAN_ZONE_APP  
+
+⚠️ Note: Requires Snowflake login and role-based access.
 
 ---
 
-## 🧠 Project Overview
+## 🧠 Overview
 
-CricketIQ is a fully interactive **IPL fan engagement & analytics platform** built entirely within Snowflake.
+CricketIQ is an advanced IPL analytics and fan engagement platform built entirely within Snowflake using Streamlit.
 
-It enables real-time insights, predictions, and gamified user experiences — all without relying on external infrastructure.
-
----
-
-## ✨ Features
-
-- 📊 Real-time fan insights & analytics  
-- 🎛️ Interactive dashboards using Streamlit  
-- 🔮 Match predictions & fan polls  
-- 🏆 Leaderboard & gamification system  
-- 🔐 Role-based secure access  
+The platform enables real-time data insights, interactive dashboards, and gamified fan experiences without relying on external backend systems.
 
 ---
 
-## 🏗️ Tech Stack
+## 🎯 Objectives
 
-- **Snowflake** – Data Cloud ☁️  
-- **Snowpark (Python)** – Data processing & logic  
-- **Streamlit** – UI & application layer  
-
----
-
-## 💡 What Makes This Unique?
-
-Unlike traditional architectures:
-
-❌ No separate backend  
-❌ No external APIs  
-❌ No third-party hosting  
-
-✅ Entire application runs *inside Snowflake*
+- Build a fully cloud-native analytics application  
+- Deliver real-time fan engagement features  
+- Demonstrate Snowflake + Streamlit capabilities  
+- Simulate a production-grade data platform  
 
 ---
 
-## 💼 Why This Matters
+## ✨ Core Features
 
-This project showcases:
+### 📊 Analytics Dashboard
+- Real-time match insights  
+- Player and team statistics  
+- Interactive visualizations  
 
-- End-to-end data application development  
-- Cloud-native architecture design  
-- Real-time analytics engineering  
-- Production-ready deployment inside Snowflake  
+### 🔮 Predictions & Polls
+- Match outcome predictions  
+- User voting system  
+- Dynamic result updates  
 
----
+### 🏆 Leaderboard System
+- User engagement tracking  
+- Points-based ranking system  
+- Gamification features  
 
-## 🎯 Use Case
-
-Simulates a real IPL fan ecosystem with:
-
-- 📊 Data-driven engagement  
-- 📈 Live match insights  
-- 🏆 Gamified user experience  
-
----
-
-## 🙌 Feedback
-
-Would love to hear your thoughts and suggestions!
+### 🔐 Secure Access
+- Role-Based Access Control (RBAC)  
+- Managed entirely within Snowflake  
 
 ---
 
-## 🔖 Tags
+## 🏗️ Architecture
 
-`#Snowflake` `#Streamlit` `#DataEngineering` `#IPL` `#Python` `#Analytics` `#CloudComputing`
+```text
+[ User Interface (Streamlit) ]
+              ↓
+[ Snowflake Streamlit App ]
+              ↓
+[ Snowpark (Python Logic) ]
+              ↓
+[ Snowflake Data Tables ]
