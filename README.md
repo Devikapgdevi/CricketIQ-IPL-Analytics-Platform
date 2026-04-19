@@ -107,18 +107,6 @@ User Interaction
 
 ---
 
-## 📸 Application Preview
-
-> *(Add screenshots for maximum recruiter impact)*
-
-* 🏠 Dashboard
-* 📊 Points Table
-* 👤 Player Profiles
-* 🏆 Leaderboard
-* 🔮 Predictions Interface
-
----
-
 ## ⚙️ Setup Instructions
 
 ```bash id="s8d2ja"
