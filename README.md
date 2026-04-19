@@ -1,59 +1,199 @@
-# CricketIQ-IPL-Analytics-Platform🏏
-TATA IPL 2026 Fan Engagement App 🏏 | Built for Agentic Premier League – Bengaluru (Google Event) | Snowflake + Streamlit Powered Real-Time Cricket Analytics &amp; Fan Interaction Platform
+# 🏏 CricketIQ – IPL Analytics Platform
 
-This project was built as part of **Challenge 1** in the **Agentic Premier League – Bengaluru**, a high-energy innovation event hosted at a Google office.
+<p align="center">
+  <b>Real-Time Cricket Intelligence • Fan Engagement • Data-Driven Experience</b><br>
+  Built for <b>Agentic Premier League – Bengaluru</b> (Google Event)
+</p>
 
-## 🚀 About the Project
+---
 
-The **TATA IPL 2026 Fan Engagement App** is a full-stack, data-driven platform designed to enhance the cricket fan experience through real-time analytics, gamification, and interactive features.
+## 🚀 Overview
 
-Built using **Streamlit + Snowflake Snowpark**, the app transforms raw cricket data into engaging fan interactions.
+**CricketIQ** is a next-generation **IPL analytics and fan engagement platform** designed to transform how users experience cricket.
 
-## 🎯 Key Features
+Built during **Challenge 1 of the Agentic Premier League – Bengaluru**, this project combines **real-time data, analytics, and gamification** into a unified, interactive system.
 
-- 📊 Live Match Dashboard (Scores, Status, Results)
-- 🏆 Points Table with Qualification Insights
-- 👤 Player Profiles with Career Stats & Match Performance
-- 📈 Scorecards (Batting & Bowling Analysis)
-- 🗣️ Ball-by-Ball Commentary
-- 🔮 Match Predictions with XP Rewards
-- 🗳️ Fan Polls & Voting System
-- 👥 Watch Parties & Fan Networking
-- ⚔️ Cricket Debates
-- 🏅 Leaderboard with Gamification (XP System)
-- 🔥 IPL Buzz (Trending Matches & Engagement Analytics)
+> 💡 *Idea:* Move beyond watching cricket — start analyzing, predicting, and engaging with it.
 
-## 🧠 Tech Stack
+---
 
-- **Frontend:** Streamlit (Custom UI/UX with CSS)
-- **Backend:** Snowflake (Snowpark for Python)
-- **Database:** Snowflake Tables & Views
-- **Language:** Python
+## 🏆 What Makes CricketIQ Stand Out
+
+✔ Developed in a **Google-hosted hackathon environment**
+✔ Full-stack system covering **frontend, backend, and data engineering**
+✔ Real-time analytics with **interactive UI and fan features**
+✔ Gamified ecosystem with **XP, leaderboard, and engagement loops**
+✔ Clean, modern UI built using **Streamlit + custom CSS design system**
+
+---
+
+## 🎯 Core Capabilities
+
+### 🏏 Live Match Intelligence
+
+* Live / Upcoming / Completed match tracking
+* Real-time score updates
+* Ball-by-ball commentary system
+
+### 📊 Advanced IPL Analytics
+
+* Dynamic **Points Table with NRR & recent form**
+* Full **match scorecards (batting & bowling)**
+* Team performance insights
+
+### 👤 Player Intelligence Engine
+
+* Detailed player profiles
+* Career statistics + IPL records
+* Match-wise performance tracking
+
+### 🔮 Predictive Engagement System
+
+* Predict winners, margin, and Player of the Match
+* Confidence-based predictions
+* Earn XP through participation
+
+### 🗳️ Fan Interaction Layer
+
+* Live polls
+* Debate system (A vs B voting)
+* Community-driven engagement
+
+### 👥 Social Experience
+
+* Watch party creation & participation
+* Fan networking based on team loyalty
+
+### 🏅 Gamification Engine
+
+* XP-based reward system
+* Fan levels (Newcomer → Legend)
+* Global leaderboard
+
+### 🔥 IPL Buzz Analytics
+
+* Trending matches based on engagement
+* Reaction and discussion metrics
+
+---
+
+## 🧠 System Architecture
+
+### 🔹 Frontend
+
+* **Streamlit** with advanced custom styling for a modern UI
+
+### 🔹 Backend
+
+* **Snowflake Snowpark (Python)** for scalable data processing
+
+### 🔹 Data Layer
+
+* Snowflake tables powering:
+
+  * Matches
+  * Players
+  * Fan activity
+  * Predictions
+  * Engagement metrics
+
+### 🔹 Data Flow
+
+User Interaction
+→ Streamlit UI
+→ Snowpark Queries
+→ Snowflake Database
+→ Real-Time UI Rendering
+
+---
+
+## 📸 Application Preview
+
+> *(Add screenshots for maximum recruiter impact)*
+
+* 🏠 Dashboard
+* 📊 Points Table
+* 👤 Player Profiles
+* 🏆 Leaderboard
+* 🔮 Predictions Interface
+
+---
+
+## ⚙️ Setup Instructions
+
+```bash id="s8d2ja"
+# Clone the repository
+git clone https://github.com/your-username/cricketiq.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the application
+streamlit run app.py
+```
+
+---
+
+## 🏗️ Project Structure
+
+```id="k2d9sl"
+📦 CricketIQ
+ ┣ 📂 assets
+ ┃ ┣ banner.png
+ ┃ ┣ screenshots/
+ ┃ ┗ demo.gif
+ ┣ 📂 app
+ ┣ 📜 app.py
+ ┣ 📜 requirements.txt
+ ┗ 📜 README.md
+```
+
+---
 
 ## 🏆 Event Context
 
-This project is a **Challenge Submission for Challenge 1** at:
+This project is a **Challenge 1 submission** for:
 
-👉 *Agentic Premier League – Bengaluru*  
-👉 Hosted at a **Google office (Kyoto West)**  
+🎯 **Agentic Premier League – Bengaluru**
+📍 Hosted at a **Google office (Kyoto West)**
 
 The event combined:
-- 🏏 Cricket energy
-- 💻 Real-time coding challenges
-- 🤝 Tech community collaboration
 
-## 💡 Highlights
+* 🏏 Cricket + coding challenges
+* 💻 Real-time product development
+* 🤝 Community-driven innovation
 
-- Built under time constraints during a live challenge
-- Focused on **fan engagement + data intelligence**
-- Implemented **gamification using XP system**
-- Designed **production-level UI inside Streamlit**
+---
 
-## 📸 Inspiration
+## 💡 Key Learnings
 
-“Watching cricket while building cricket tech” — this project reflects the spirit of blending passion with innovation.
+* Building **real-time data applications under constraints**
+* Designing **engaging, user-centric analytics platforms**
+* Leveraging **Snowflake for scalable backend systems**
+* Integrating **gamification into data-driven products**
+
+---
+
+## 🔮 Future Scope
+
+* AI-powered match prediction models
+* Real-time streaming data pipelines
+* Mobile-first application
+* Notification & alert system
+
+---
 
 ## 👩‍💻 Author
 
 **Devika PG**
-GMAIL:devikapgdevi@gmail.com
+📍 Bengaluru, India
+
+💡 SNOWFLAKE DEVELOPER IN ARIS DATA.AI| DATA ENGINEER | Full Stack Development
+
+---
+
+## ⭐ Final Note
+
+**CricketIQ** is more than just a dashboard — it’s a **data-powered cricket experience platform** built to engage, analyze, and elevate fan interaction.
+
+> *From cricket data → to cricket intelligence.* 🏏
